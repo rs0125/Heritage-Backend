@@ -1,0 +1,254 @@
+The Maurya Empire was a geographically extensive Iron Age historical power in South Asia with its power base in Magadha. Founded by Chandragupta Maurya around c. 320 BCE, it existed in loose-knit fashion until 185 BCE. The primary sources for the written records of the Mauryan times are partial records of the lost history of Megasthenes in Roman texts of several centuries later; and the Edicts of Ashoka. Archaeologically, the period of Mauryan rule in South Asia falls into the era of Northern Black Polished Ware (NBPW).
+Through military conquests and diplomatic treaties, Chandragupta Maurya defeated the Nanda dynasty and extended his suzerainty as far westward as Afghanistan below the Hindu Kush and as far south as the northern Deccan; however, beyond the core Magadha area, the prevailing levels of technology and infrastructure limited how deeply his rule could penetrate society. During the rule of Chandragupta's grandson, Ashoka (ca. 268–232 BCE), the empire briefly controlled the major urban hubs and arteries of the subcontinent excepting the deep south. The Mauryan capital (what is today Patna) was located in Magadha; the other core regions were Taxila in the northwest; Ujjain in the Malwa Plateau; Kalinga on the Bay of Bengal coast; and the precious metal-rich lower Deccan plateau. Outside the core regions, the empire's geographical extent was dependent on the loyalty of military commanders who controlled the armed cities scattered within it.
+The Mauryan economy was helped by the earlier rise of Buddhism and Jainism—creeds that promoted nonviolence, proscribed ostentation, or superfluous sacrifices and rituals, and reduced the costs of economic transactions; by coinage that increased economic accommodation in the region; and by the use of writing, which might have boosted more intricate business dealings. Despite profitable settled agriculture in the fertile eastern Gangetic plain, these factors helped maritime and river-borne trade, which were essential for acquiring goods for consumption as well as metals of high economic value. To promote movement and trade, the Maurya dynasty built roads, most prominently a chiefly winter-time road—the Uttarapath—which connected eastern Afghanistan to their capital Pataliputra during the time of year when the water levels in the intersecting rivers were low and they could be easily forded. Other roads connected the Ganges basin to Arabian Sea coast in the west, and precious metal-rich mines in the south.
+The population of South Asia during the Mauryan period has been estimated to be between 15 and 30 million. The empire's period of dominion was marked by exceptional creativity in art, architecture, inscriptions and produced texts, but also by the consolidation of caste in the Gangetic plain, and the declining rights of women in the mainstream Indo-Aryan speaking regions of India. After the Kalinga War in which Ashoka's troops visited much violence on the region, he embraced Buddhism and promoted its tenets in edicts scattered around South Asia, most commonly in clusters along the well-traveled road networks. He sponsored Buddhist missionaries to Sri Lanka, northwest India, and Central Asia, which played a salient role in Buddhism becoming a world religion, and himself a figure of world history. As Ashoka's edicts forbade both the killing of wild animals and the destruction of forests, he is seen by some modern environmental historians as an early embodiment of that ethos. In July 1947, Jawaharlal Nehru, the interim prime minister of India, proposed in the Constituent Assembly of India that Lion Capital of Ashoka at Sarnath be the State Emblem of India, and the 24-pointed Buddhist Wheel of Dharma on the capital's drum-shaped abacus the central feature of India's national flag. The proposal was accepted in December 1947.
+
+
+== Etymology ==
+
+The domains of Ashoka are addressed as 𑀚𑀁𑀩𑀼𑀤𑀻𑀧 Jaṃbudīpa in his edicts. This term, meaning "island/continent of jambu", is the common name for the entire Indian subcontinent in ancient Indian sources. Neighbouring cultures usually addressed this land by a variety of exonyms, such as the Greek Ἰνδῐ́ᾱ (Indíā, derived from the Indus River), which gave most European languages the common name for the subcontinent, including English. Both of these terms are, however, more geographical than political, and in common parlance could include areas outside of the Mauryan control.
+The name "Maurya" does not occur in any of the Edicts of Ashoka, or the contemporary Greek accounts such as Megasthenes's Indica, but it is attested by the following sources:
+
+The Junagadh rock inscription of Rudradaman (c. 150 CE) prefixes "Maurya" to the names Chandragupta and Ashoka.
+The Puranas (c. 4th century CE or earlier) use Maurya as a dynastic appellation.
+The Buddhist texts state that Chandragupta belonged to the "Moriya" clan of the Shakyas, the tribe to which Gautama Buddha belonged.
+The Jain texts state that Chandragupta was the son of an imperial superintendent of peacocks (mayura-poshaka).
+Tamil Sangam literature also designate them as 'moriyar' and mention them after the Nandas
+Kuntala inscription (from the town of Bandanikke, North Mysore) of 12th century AD chronologically mention Maurya as one of the dynasties which ruled the region.
+According to some scholars, Kharavela's Hathigumpha inscription (2nd-1st century BCE) mentions era of Maurya Empire as Muriya Kala (Mauryan era), but this reading is disputed: other scholars—such as epigraphist D. C. Sircar—read the phrase as mukhiya-kala ("the principal art").
+According to the Buddhist tradition, the ancestors of the Maurya kings had settled in a region where peacocks (mora in Pali) were abundant. Therefore, they came to be known as "Moriyas", literally meaning, "belonging to the place of peacocks". According to another Buddhist account, these ancestors built a city called Moriya-nagara ("Peacock-city"), which was so called, because it was built with the "bricks coloured like peacocks' necks".
+The dynasty's connection to the peacocks, as mentioned in the Buddhist and Jain traditions, seems to be corroborated by archaeological evidence. For example, peacock figures are found on the Ashoka pillar at Nandangarh and several sculptures on the Great Stupa of Sanchi. Based on this evidence, modern scholars theorise that the peacock may have been the dynasty's emblem.
+Some later authors, such as Dhundhi-raja (an 18th-century commentator on the Mudrarakshasa and an annotator of the Vishnu Purana), state that the word "Maurya" is derived from Mura and the mother of the first Maurya emperor. However, the Puranas themselves make no mention of Mura and do not talk of any relation between the Nanda and the Maurya dynasties. Dhundiraja's derivation of the word seems to be his own invention: according to the Sanskrit rules, the derivative of the feminine name Mura (IAST: Murā) would be "Maureya"; the term "Maurya" can only be derived from the masculine "Mura".
+
+
+== History ==
+
+
+=== Sources ===
+The primary sources for the written records of the Mauryan times are partial records of the lost history of Megasthenes in Roman texts of several centuries later; and the Edicts of Ashoka, which were first read in the modern era by James Prinsep after he had deciphered the Brahmi and Kharoshthi scripts in 1838. The Arthashastra, a work first discovered in the early 20th century, and previously attributed to Kautilya, but now thought to be composed by multiple authors in the first centuries of the common era, has lost its value as a source for Mauryan times, as it describes post-Mauryan customs.
+
+
+=== Chandragupta Maurya ===
+
+The origins of the Maurya Empire are shrouded in legend. Greek sources refer to confrontations between the Greeks and Chandragupta Maurya, but are almost silent on his conquest of the Nanda Empire. Indian sources, on the other hand, only narrate the conquest of the Nanda Empire, and provide no info on what happened at the Greek frontier.
+A number of Indian accounts, such as the Gupta-era drama Mudrarakshasa by Vishakhadatta, describe his royal ancestry and even link him with the Nanda family. A kshatriya clan known as the Mauryas are referred to in the earliest Buddhist texts, Mahāparinibbāna Sutta. However, any conclusions are hard to make without further historical evidence.
+Chandragupta first emerges in Greek accounts as "Sandrokottos". Plutarch states that Chandragupta, as a young man, saw Alexander.
+
+
+==== Unrest and warfare in the Punjab ====
+
+Alexander the Great was leading his Indian campaigns and ventured into Punjab. His army mutinied at the Beas River and refused to advance farther eastward when confronted by another army. Alexander returned to Babylon and re-deployed most of his troops west of the Indus River. Soon after Alexander died in Babylon in 323 BCE, his empire fragmented into independent kingdoms ruled by his generals.
+The Roman historian Justin (2nd c. CE) states, in Epit. 15.4.12-13, that after Alexander's death, Greek governors in India were assassinated, liberating the people of Greek rule. This revolt was led by Chandragupta, who in turn established an oppressive regime himself "after taking the throne":
+
+India, after the death of Alexander, had assassinated his prefects, as if shaking the burden of servitude. The author of this liberation was Sandracottos [Chandragupta], but he had transformed liberation in servitude after victory, since, after taking the throne, he himself oppressed the very people he has liberated from foreign domination." 
+Raychaudhuri states that, according to Justin Epitome 15.4.18–19, Chandragupta organised an army. He notes that early translators interpreted Justin's original expression as "body of robbers", but states Raychaudhuri, the original expression used by Justin may mean mercenary soldier, hunter, or robber. Mookerji refers to McCrindle as stating that "robbers" refers to the people of the Punjab, "kingless people." Mookerju further quotes Rhys Davids, who states that "it was from the Punjab that Chandragupta recruited the nucleus of the force with which he besieged and conquered Dhana-Nanda." According to Nath Sen, Chandragupta recruited and annexed local military republics such as the Yaudheyas that had resisted Alexander's Empire.
+When Alexander's remaining forces were routed, returning westwards, Seleucus I Nicator fought to defend these territories. Not many details of the campaigns are known from ancient sources. Seleucus was defeated and retreated into the mountainous region of Afghanistan.
+
+
+==== Conquest of the Nanda Empire ====
+
+The Nanda Empire ruled the Ganges basin and some adjacent territories. The Nanda Empire was a large, militaristic, and economically powerful empire due to conquering the mahajanapadas.
+Historically reliable details of Chandragupta's campaign against the Nanda Empire are unavailable, and legends written centuries later are inconsistent. Buddhist, Jain, and Hindu texts claim Magadha was ruled by the Nanda dynasty, which was defeated and conquered by Chandragupta Maurya, with Chanakya's counsel. The conquest was fictionalised in the Gupta-era play Mudrarakshasa, which embellished the legend with further narratives not found in earlier versions of the Chanakya-Chandragupta legend. Because of this difference, Thomas Trautmann suggests that most of it is fictional or legendary, without any historical basis. Radha Kumud Mukherjee similarly considers Mudrakshasa play without historical basis.
+Justin reports that Chandragupta met the Nanda king, angered him, and made a narrow escape. According to several Indian legends, Chanakya travelled to Pataliputra, Magadha, the capital of the Nanda Empire where Chanakya worked for the Nandas as a minister. However, Chanakya was insulted by the King Dhana Nanda when he informed them of Alexander's invasion. Chanakya swore revenge and vowed to destroy the Nanda Empire. He had to flee in order to save his life and went to Taxila, a notable center of learning, to work as a teacher. On one of his travels, Chanakya witnessed some young men playing a rural game practising a pitched battle near Vinjha forest. One of the boys was none other than Chandragupta. Chanakya was impressed by the young Chandragupta and saw imperial qualities in him as someone fit to rule.
+The Buddhist Mahavamsa Tika and Jain Parishishtaparvan records Chandragupta's army unsuccessfully attacking the Nanda capital. Chandragupta and Chanakya then began a campaign at the frontier of the Nanda empire, gradually conquering various territories on their way to the Nanda capital. He then refined his strategy by establishing garrisons in the conquered territories, and finally besieged the Nanda capital Pataliputra. There Dhana Nanda accepted defeat. In contrast to the easy victory in Buddhist sources, the Hindu and Jain texts state that the campaign was bitterly fought because the Nanda dynasty had a powerful and well-trained army. These legends state that the Nanda emperor was defeated, deposed and exiled by some accounts, while Buddhist accounts claim he was killed. With the defeat of Dhana Nanda, Chandragupta Maurya founded the Maurya Empire.
+Historically reliable details of Chandragupta's campaign into Pataliputra are unavailable and the legends written centuries later are inconsistent. While his victory, and ascencion of the throne, is usually dated at ca. 322-319 BCE, which would put his war in the Punjab after his ascencion, an ascencion "between c.311 and c.305 bc" is also possible, placing his activity in the Punjab at ca. 317 BCE, "at the time Seleucos was preparing future glory":
+
+Later, as he was preparing war against the prefects of Alexander, a huge wild elephant went to him and took him on his back as if tame, and he became a remarkable fighter and war leader. Having thus acquired royal power, Sandracottos possessed India at the time Seleucos was preparing future glory.
+
+
+==== Dynastic marriage-alliance with Seleucus ====
+
+Seleucus I Nicator, the Macedonian satrap of the Asian portion of Alexander's former empire, conquered and put under his own authority eastern territories as far as Bactria and the Indus.
+In 303-302 BCE a confrontation took place between Chandragupta and Seleucus I Nicator, when Seleucus crossed the Indus with an army. Appian| History of Rome, The Syrian Wars: "He (Seleucus) crossed the Indus and waged war with Sandrocottus [Maurya], king of the Indians, who dwelt on the banks of that stream, until they came to an understanding with each other and contracted a marriage relationship.
+Possibly without entering into a real battle, the two rulers concluded a dynastic marriage alliance in ca. 302 BCE. According to Kosmin, "Seleucus transferred to Chandragupta's kingdom the easternmost satrapies of his empire, certainly Gandhara, Parapamisadae, and the eastern parts of Gedrosia, and possibly also Arachosia and Aria as far as Herat." Seleucus I received 500 war elephants, that were to have a decisive role in his victory against western Hellenistic kings at the Battle of Ipsus in 301 BCE. 
+
+After having made a treaty with him (Sandrakotos) and put in order the Orient situation, Seleucos went to war against Antigonus.
+In addition to this treaty, Seleucus dispatched an ambassador, Megasthenes, to Chandragupta, and later Deimakos to his son Bindusara, at the Mauryan court at Pataliputra (modern Patna in Bihar). Later, Ptolemy II Philadelphus, the ruler of Ptolemaic Egypt and contemporary of Ashoka, is also recorded by Pliny the Elder as having sent an ambassador named Dionysius to the Mauryan court.
+Megasthenes in particular was a notable Greek ambassador in the court of Chandragupta Maurya. His book Indika is a major literary source for information about the Mauryan Empire. According to Arrian, ambassador Megasthenes (c. 350 – c. 290 BCE) lived in Arachosia and travelled to Pataliputra. Megasthenes' description of Mauryan society as freedom-loving gave Seleucus a means to avoid invasion, however, underlying Seleucus' decision was the improbability of success. In later years, Seleucus' successors maintained diplomatic relations with the Empire based on similar accounts from returning travellers.
+Classical sources have also recorded that following their treaty, Chandragupta and Seleucus exchanged presents, such as when Chandragupta sent various aphrodisiacs to Seleucus:
+
+And Theophrastus says that some contrivances are of wondrous efficacy in such matters [as to make people more amorous]. And Phylarchus confirms him, by reference to some of the presents which Sandrakottus, the king of the Indians, sent to Seleucus; which were to act like charms in producing a wonderful degree of affection, while some, on the contrary, were to banish love.
+
+
+==== Chandragupta's state ====
+Chandragupta established a decentralised state with an administration at Pataliputra, which, according to Megasthenes, was "surrounded by a wooden wall pierced by 64 gates and 570 towers." Aelian, although not expressly quoting Megasthenes nor mentioning Pataliputra, described Indian palaces as superior in splendor to Persia's Susa or Ecbatana. The architecture of the city seems to have had many similarities with Persian cities of the period.
+According to Plutarch, Chandragupta Maurya subdued all of India, and Justin also observed that Chandragupta Maurya was "in possession of India". These accounts are corroborated by Tamil Sangam literature which mentions about Mauryan invasion with their south Indian allies and defeat of their rivals at Podiyil hill in Tirunelveli district in present-day Tamil Nadu.
+
+
+=== Bindusara ===
+
+Bindusara was born to Chandragupta, the founder of the Mauryan Empire. This is attested by several sources, including the various Puranas and the Mahāvaṃsa. He is attested by the Buddhist texts such as Dīpavaṃsa and Mahāvaṃsa ("Bindusaro"); the Jain texts such as Parishishta-Parvan; as well as the Hindu texts such as Vishnu Purana ("Vindusara"). According to the 12th century Jain writer Hemachandra's Parishishta-Parvan, the name of Bindusara's mother was Durdhara. Some Greek sources also mention him by the name "Amitrochates" or its variations.
+Historian Upinder Singh estimates that Bindusara ascended the throne around 297 BCE. Bindusara, just 22 years old, inherited a large empire that consisted of what is now, Northern, Central and Eastern parts of India along with parts of Afghanistan and Baluchistan. Bindusara extended this empire to the southern part of India, as far as what is now known as Karnataka. He brought sixteen states under the Mauryan Empire and thus conquered almost all of the Indian peninsula (he is said to have conquered the 'land between the two seas' – the peninsular region between the Bay of Bengal and the Arabian Sea). Bindusara did not conquer the friendly Tamil kingdoms of the Cholas, ruled by King Ilamcetcenni, the Pandyas, and Cheras. Apart from these southern states, Kalinga (modern Odisha) was the only kingdom in India that did not form part of Bindusara's empire. It was later conquered by his son Ashoka, who served as the Viceroy of Avantirastra during his father's reign, which highlights the importance of the province.
+Bindusara's life has not been documented as well as that of his father Chandragupta or of his son Ashoka. Chanakya continued to serve as prime minister during his reign. According to the medieval Tibetan scholar Taranatha who visited India, Chanakya helped Bindusara "to destroy the nobles and kings of the sixteen kingdoms and thus to become absolute master of the territory between the eastern and western oceans". During his rule, the citizens of Taxila revolted twice. The reason for the first revolt was the maladministration of Susima, his eldest son. The reason for the second revolt is unknown, but Bindusara could not suppress it in his lifetime. It was crushed by Ashoka after Bindusara's death.
+Chandragupta's son Bindusara extended the rule of the Mauryan empire towards southern India. The famous Tamil poet Mamulanar of the Sangam literature described how areas south of the Deccan Plateau which comprised Tamilakam was invaded by the Mauryan Army using troops from Karnataka. Mamulanar states that Vadugar (people who resided in Andhra-Karnataka regions immediately to the north of Tamil Nadu) formed the vanguard of the Mauryan Army. He also had a Greek ambassador at his court, named Deimachus.
+Bindusara maintained friendly diplomatic relations with the Hellenic world. Deimachus was the ambassador of Seleucid king Antiochus I at Bindusara's court. Diodorus states that the king of Palibothra (Pataliputra, the Mauryan capital) welcomed a Greek author, Iambulus. This king is usually identified as Bindusara. Pliny states that the Ptolemaic king Philadelphus sent an envoy named Dionysius to India. According to Sailendra Nath Sen, this appears to have happened during Bindusara's reign.
+His son Bindusara 'Amitraghata' (Slayer of Enemies) also is recorded in Classical sources as having exchanged presents with Antiochus I:
+
+But dried figs were so very much sought after by all men (for really, as Aristophanes says, "There's really nothing nicer than dried figs"), that even Amitrochates, the king of the Indians, wrote to Antiochus, entreating him (it is Hegesander who tells this story) to buy and send him some sweet wine, and some dried figs, and a sophist; and that Antiochus wrote to him in answer, "The dry figs and the sweet wine we will send you; but it is not lawful for a sophist to be sold in Greece.
+Unlike his father Chandragupta (who at a later stage converted to Jainism), Bindusara believed in the Ajivika religion. Bindusara's guru Pingalavatsa (Janasana) was a Brahmin of the Ajivika religion. Bindusara's wife, Empress Subhadrangi was a Brahmin also of the Ajivika religion from Champa (present Bhagalpur district). Bindusara is credited with giving several grants to Brahmin monasteries (Brahmana-bhatto).
+Historical evidence suggests that Bindusara died in the 270s BCE. According to Upinder Singh, Bindusara died around 273 BCE. Alain Daniélou believes that he died around 274 BCE. Sailendra Nath Sen believes that he died around 273–272 BCE, and that his death was followed by a four-year struggle of succession, after which his son Ashoka became the emperor in 269–268 BCE. According to the Mahāvaṃsa, Bindusara reigned for 28 years. The Vayu Purana, which names Chandragupta's successor as "Bhadrasara", states that he ruled for 25 years.
+
+
+=== Ashoka ===
+
+As a young prince, Ashoka (r. 272–232 BCE) was a brilliant commander who crushed revolts in Ujjain and Taxila. As emperor he was ambitious and aggressive, re-asserting the Empire's superiority in southern and western India. But it was his conquest of Kalinga (262–261 BCE) which proved to be the pivotal event of his life. Ashoka used Kalinga to project power over a large region by building a fortification there and securing it as a possession. Although Ashoka's army succeeded in overwhelming Kalinga forces of royal soldiers and citizen militias, an estimated 100,000 soldiers and civilians were killed in the furious warfare, including over 10,000 of Imperial Mauryan soldiers. Hundreds of thousands of people were adversely affected by the destruction and fallout of war. When he personally witnessed the devastation, Ashoka began feeling remorse. Although the annexation of Kalinga was completed, Ashoka embraced the teachings of Buddhism, and renounced war and violence. He sent out missionaries to travel around Asia and spread Buddhism to other countries. He also propagated his own dhamma.
+Ashoka implemented principles of ahimsa by banning hunting and violent sports activity and abolishing slave trade. While he maintained a large and powerful army, to keep the peace and maintain authority, Ashoka expanded friendly relations with states across Asia and Europe, and he sponsored Buddhist missions. He undertook a massive public works building campaign across the country. Over 40 years of peace, harmony and prosperity made Ashoka one of the most successful and famous monarchs in Indian history. He remains an idealised figure of inspiration in modern India.
+The Edicts of Ashoka, set in stone, are found throughout the Subcontinent. Ranging from as far west as Afghanistan and as far south as Andhra (Nellore District), Ashoka's edicts state his policies and accomplishments. Although predominantly written in Prakrit, two of them were written in Greek, and one in both Greek and Aramaic. Ashoka's edicts refer to the Greeks, Kambojas, and Gandharas as peoples forming a frontier region of his empire. They also attest to Ashoka's having sent envoys to the Greek rulers in the West as far as the Mediterranean. The edicts precisely name each of the rulers of the Hellenistic world at the time such as Amtiyoko (Antiochus II Theos), Tulamaya (Ptolemy II), Amtikini (Antigonos II), Maka (Magas) and Alikasudaro (Alexander II of Epirus) as recipients of Ashoka's proselytism. The Edicts also accurately locate their territory "600 yojanas away" (1 yojana being about 7 miles), corresponding to the distance between the center of India and Greece (roughly 4,000 miles).
+
+
+=== Subhagasena (206 BCE) ===
+Sophagasenus was an Indian Mauryan ruler of the 3rd century BCE, described in ancient Greek sources, and named Subhagasena or Subhashasena in Prakrit. His name is mentioned in the list of Mauryan princes, and also in the list of the Yadava dynasty, as a descendant of Pradyumna. He may have been a grandson of Ashoka, or Kunala, the son of Ashoka. He ruled an area south of the Hindu Kush, possibly in Gandhara. Antiochos III, the Seleucid king, after having made peace with Euthydemus in Bactria, went to India in 206 BCE and is said to have renewed his friendship with the Indian king there:
+
+He (Antiochus) crossed the Caucasus and descended into India; renewed his friendship with Sophagasenus the king of the Indians; received more elephants, until he had a hundred and fifty altogether; and having once more provisioned his troops, set out again personally with his army: leaving Androsthenes of Cyzicus the duty of taking home the treasure which this king had agreed to hand over to him.
+
+
+=== Decline ===
+
+Ashoka was followed for 50 years by a succession of weaker emperors. He was succeeded by Dasharatha Maurya, who was Ashoka's grandson. None of Ashoka's sons could ascend to the throne after him. Mahinda, his firstborn, became a Buddhist monk. Kunala Maurya was blinded and hence couldn't ascend to the throne; and Tivala, son of Karuvaki, died even earlier than Ashoka. Little is known about another son, Jalauka.
+The empire lost many territories under Dasharatha, which were later reconquered by Samprati, Kunala's son. Post Samprati, the Mauryas slowly lost many territories. In 180 BCE, Brihadratha Maurya, was killed by his general, Pushyamitra Shunga in a military parade without any heir, giving rise to the Shunga Empire.
+Reasons advanced for the decline include the succession of weak emperors after Ashoka Maurya, the partition of the empire into two, the growing independence of some areas within the empire, such as that ruled by Sophagasenus, a top-heavy administration where authority was entirely in the hands of a few persons, an absence of any national consciousness, the pure scale of the empire making it unwieldy, and invasion by the Greco-Bactrian Kingdom.
+Some historians, such as Hem Chandra Raychaudhuri, have argued that Ashoka's pacifism undermined the "military backbone" of the Maurya empire. Others, such as Romila Thapar, have suggested that the extent and impact of his pacifism have been "grossly exaggerated".
+
+
+==== Persecution of Buddhists ====
+Buddhist records such as the Ashokavadana write that the assassination of Brihadratha and the rise of the Shunga empire led to a wave of religious persecution for Buddhists, and a resurgence of Brahmanism. According to Sir John Marshall, Pushyamitra may have been the main author of the persecutions, although later Shunga kings seem to have been more supportive of Buddhism. Other historians, such as Etienne Lamotte and Romila Thapar, among others, have argued that archaeological evidence in favour of the allegations of persecution of Buddhists are lacking, and that the extent and magnitude of the atrocities have been exaggerated.
+
+
+==== Establishment of the Indo-Greek Kingdom (180 BCE) ====
+
+The fall of the Mauryas left the Khyber Pass unguarded, and a wave of foreign invasion followed. The Greco-Bactrian king Demetrius capitalised on the break-up, and he conquered southern Afghanistan and parts of northwestern India around 180 BCE, forming the Indo-Greek Kingdom. The Indo-Greeks would maintain holdings on the trans-Indus region, and make forays into central India, for about a century. Under them, Buddhism flourished, and one of their kings, Menander, became a famous figure of Buddhism; he was to establish a new capital of Sagala, the modern city of Sialkot. However, the extent of their domains and the lengths of their rule are subject to much debate. Numismatic evidence indicates that they retained holdings in the subcontinent right up to the birth of Christ. Although the extent of their successes against indigenous powers such as the Shungas, Satavahanas, and Kalinga are unclear, what is clear is that Scythian tribes, named Indo-Scythians, brought about the demise of the Indo-Greeks from around 70 BCE and retained lands in the trans-Indus, the region of Mathura, and Gujarat.
+
+
+== Military ==
+The expansion and defence of the empire was made possible by what appears to have been one of the largest armies in the world during the Iron Age. According to Megasthenes, the empire wielded a military of 600,000 infantry, 30,000 cavalry, 8,000 chariots and 9,000 war elephants besides followers and attendants. Megasthenes mentions military command consisting of six boards of five members each, (i) Navy (ii) Military transport (iii) Infantry (iv) Cavalry and Catapults (v) Chariot divisions and (vi) Elephants.
+
+
+== Administration ==
+
+
+=== Provinces ===
+Ashoka's empire consisted of five parts. Magadha, with the imperial capital at Pataliputra, and several former mahajanapadas next to it formed the center, which was directly ruled by the emperor's administration. The other territories were divided into four provinces, ruled by princes who served as governors. From Ashokan edicts, the names of the four provincial capitals are Tosali (in the east), Ujjain (in the west), Suvarnagiri (in the south), and Taxila (in the northwest). The head of the provincial administration was the Kumar (prince), who governed the provinces as emperor's representative. The kumara was assisted by mahamatyas (great ministers) and council of ministers. This organisational structure was reflected at the imperial level with the Emperor and his Mantriparishad (Council of Ministers).. The Mauryans established a well developed coin minting system. Coins were mostly made of silver and copper. Certain gold coins were in circulation as well. The coins were widely used for trade and commerce
+
+
+=== Network of core areas and trade routes ===
+Monica Smith notes that historiography has tended to view ancient states as vast territories, whereas they are better understood as networks of centers of power, a model that also applies to the Maurya Empire. Kulke and Rothermunf agree with her approach, noting that Ashoka's inscriptions reveal a regional pattern, demarcating the five parts of the empire, whereas the major rock edicts have only been found in the frontier provinces, but are absent in the centre. Inscriptions and rock edicts are entirely absent in large parts of the territories supposedly under control of the empire, which means that "large parts of present Maharashtra and Andhra Pradesh as well as Kerala and Tamil Nadu were not actually included in the Maurya empire." Controlling the main trade routes was essential for the empire, as they were threatened by undefeated tribes inhabiting large parts of the interior.
+Even though large parts were under the control of Mauryan empire the spread of information and imperial messages was limited since many parts were inaccessible and were situated far away from capital of empire.
+
+
+=== Monarchical ownership ===
+Under the Mauryan system there was no private ownership of land as all land was owned by the emperor to whom tribute was paid by the labouring class. In return the emperor supplied the labourers with agricultural products, animals, seeds, tools, public infrastructure, and stored food in reserve for times of crisis. The economy of the empire has also been described as "a socialized monarchy", "a sort of state socialism", and the world's first welfare state.
+
+
+=== Local government ===
+Arthashastra and Megasthenes accounts of Pataliputra describe the intricate municipal system formed by Maurya empire to govern its cities. A city counsel made up of thirty commissioners was divided into six committees or boards which governed the city. The first board fixed wages and looked after provided goods, second board made arrangement for foreign dignitaries, tourists and businessmen, third board made records and registrations, fourth looked after manufactured goods and sale of commodities, fifth board regulated trade, issued licences and checked weights and measurements, sixth board collected sales taxes. Some cities such as Taxila had autonomy to issue their own coins. The city counsel had officers who looked after public welfare such as maintenance of roads, public buildings, markets, hospitals, educational institutions etc. The official head of the village was Gramika and in towns and cities was Nagarika. The city counsel also had some magisterial powers. The taking of census was regular process in the Mauryan administration. The village heads (Gramika) and mayors (Nagarika) were responsible enumerating different classes of people in the Mauryan empire such as traders, agriculturists, smiths, potters, carpenters etc. and also cattle, mostly for taxation purposes. These vocations consolidated as castes, a feature of Indian society that continues to influence the Indian politics till today.
+
+
+== Economy ==
+
+In many ways, the economic situation in the Mauryan Empire is analogous to the Roman Empire of several centuries later. Both had extensive trade connections and both had organisations similar to corporations. While Rome had organisational entities which were largely used for public state-driven projects, Mauryan India had numerous private commercial entities. These existed purely for private commerce and developed before the Mauryan Empire itself.
+
+
+== Religion ==
+While Brahmanism was an important religion throughout the period of the empire, the Mauryan Empire was centered in the non-Vedic Magadha realm, and favoured Jainism, Buddhism, and Ajivikism. Brahmanism, which had developed in the conquered Kuru-Panchala realm, lost its privileges, which threatened its very existence, and pressured it to transform itself into a "socio-political ideology" which eventually became influential far beyond the confines of its original homeland, resulting in the Hindu synthesis in which Brahmanical ideology, local traditions, and elements from the sramana-traditions, were synthesised.
+
+While according to Greek traveller Megasthenes, Chandragupta Maurya sponsored Brahmanical rituals and sacrifices, according to a Jain text from the 12th century, Chandragupta Maurya followed Jainism after retiring, when he renounced his throne and material possessions to join a wandering group of Jain monks and in his last days, he observed the rigorous but self-purifying Jain ritual of santhara (fast unto death), at Shravana Belgola in Karnataka, though it is also possible that "they are talking about his great-grandson." Samprati, the grandson of Ashoka, patronised Jainism. Samprati was influenced by the teachings of Jain monks like Suhastin and he is said to have built 125,000 derasars across India. Some of them are still found in the towns of Ahmedabad, Viramgam, Ujjain, and Palitana. It is also said that just like Ashoka, Samprati sent messengers and preachers to Greece, Persia and the Middle East for the spread of Jainism, but, to date, no evidence has been found to support this claim.
+
+The Buddhist texts Samantapasadika and Mahāvaṃsa suggest that Bindusara followed Brahmanism, calling him a "Brahmana bhatto" ("devotee of the Brahmins").
+Magadha, the centre of the empire, was also the birthplace of Buddhism. In later life Ashoka followed Buddhism; following the Kalinga War, he renounced expansionism and aggression. Ashoka sent a mission led by his son Mahinda and daughter Sanghamitta to Sri Lanka, whose king Tissa was so charmed with Buddhist ideals that he adopted them himself and made Buddhism the state religion. Ashoka sent many Buddhist missions to West Asia, Greece and South East Asia, and commissioned the construction of monasteries and schools, as well as the publication of Buddhist literature across the empire. He is believed to have built as many as 84,000 stupas across India, such as Sanchi and Mahabodhi Temple, and he increased the popularity of Buddhism in Afghanistan and Thailand. Ashoka helped convene the Third Buddhist Council of India's and South Asia's Buddhist orders near his capital, a council that undertook much work of reform and expansion of the Buddhist religion. Indian merchants embraced Buddhism and played a large role in spreading the religion across the Mauryan Empire.
+
+
+== Society ==
+The population of South Asia during the Mauryan period has been estimated to be between 15 and 30 million. According to Tim Dyson, the period of the Mauryan Empire saw the consolidation of caste among the Indo-Aryan people who had settled in the Gangetic plain, increasingly meeting tribal people who were incorporated into their evolving caste-system, and the declining rights of women in the Indo-Aryan speaking regions of India, though "these developments did not affect people living in large parts of the subcontinent."
+
+
+== Architectural remains ==
+
+The greatest monument of this period, executed in the reign of Chandragupta Maurya, was the old palace at Paliputra, modern Kumhrar in Patna. Excavations have unearthed the remains of the palace, which is thought to have been a group of several buildings, the most important of which was an immense pillared hall supported on a high substratum of timbers. The pillars were set in regular rows, thus dividing the hall into a number of smaller square bays. The number of columns is 80, each about 7 meters high. According to the eyewitness account of Megasthenes, the palace was chiefly constructed of timber, and was considered to exceed in splendour and magnificence the palaces of Susa and Ecbatana, its gilded pillars being adorned with golden vines and silver birds. The buildings stood in an extensive park studded with fish ponds and furnished with a great variety of ornamental trees and shrubs. Later fragments of stone pillars, including one nearly complete, with their round tapering shafts and smooth polish, indicate that Ashoka was responsible for the construction of the stone columns which replaced the earlier wooden ones.
+
+During the Ashokan period, stonework was of a highly diversified order and comprised lofty free-standing pillars, railings of stupas, lion thrones and other colossal figures. The use of stone had reached such great perfection during this time that even small fragments of stone art were given a high lustrous polish resembling fine enamel. This period marked the beginning of Buddhist architecture. Ashoka was responsible for the construction of several stupas, which were large domes and bearing symbols of Buddha. The most important ones are located at Sanchi, Bodhgaya, Bharhut, and possibly Amaravati Stupa. The most widespread examples of Mauryan architecture are the Ashoka pillars and carved edicts of Ashoka, often exquisitely decorated, with more than 40 spread throughout the Indian subcontinent.
+The peacock was a dynastic symbol of Mauryans, as depicted by Ashoka's pillars at Nandangarh and Sanchi Stupa.
+
+
+== Natural history ==
+
+The protection of animals in India was advocated by the time of the Maurya dynasty; being the first empire to provide a unified political entity in India, the attitude of the Mauryas towards forests, their denizens, and fauna in general is of interest.
+The Mauryas firstly looked at forests as resources. For them, the most important forest product was the elephant. Military might in those times depended not only upon horses and men but also battle-elephants; these played a role in the defeat of Seleucus, one of Alexander the Great's former generals. The Mauryas sought to preserve supplies of elephants since it was cheaper and took less time to catch, tame and train wild elephants than to raise them.
+The Mauryas also designated separate forests to protect supplies of timber, as well as lions and tigers for skins. Elsewhere the Protector of Animals also worked to eliminate thieves, tigers and other predators to render the woods safe for grazing cattle.
+The Mauryas valued certain forest tracts in strategic or economic terms and instituted curbs and control measures over them. They regarded all forest tribes with distrust and controlled them with bribery and political subjugation. They employed some of them, the food-gatherers or aranyaca to guard borders and trap animals. The sometimes tense and conflict-ridden relationship nevertheless enabled the Mauryas to guard their vast empire.
+When Ashoka embraced Buddhism in the latter part of his reign, he brought about significant changes in his style of governance, which included providing protection to fauna, and even relinquished the royal hunt. He was the first ruler in history to advocate conservation measures for wildlife and even had rules inscribed in stone edicts. The edicts proclaim that many followed the emperor's example in giving up the slaughter of animals; one of them proudly states:
+
+Our king killed very few animals.
+However, the edicts of Ashoka reflect more the desire of rulers than actual events; the mention of a 100 'panas' (coins) fine for poaching deer in imperial hunting preserves shows that rule-breakers did exist. The legal restrictions conflicted with the practices freely exercised by the common people in hunting, felling, fishing and setting fires in forests.
+
+
+== Contacts with the Hellenistic world ==
+
+
+=== Greek population in India ===
+
+An influential and large Greek population was present in the northwest of the Indian subcontinent under Ashoka's rule, possibly remnants of Alexander's conquests in the Indus Valley region. In the Rock Edicts of Ashoka, some of them inscribed in Greek, Ashoka states that the Greeks within his dominion were converted to Buddhism:
+
+Here in the king's dominion among the Greeks, the Kambojas, the Nabhakas, the Nabhapamkits, the Bhojas, the Pitinikas, the Andhras and the Palidas, everywhere people are following Beloved-of-the-Gods' instructions in Dharma.
+Now, in times past (officers) called Mahamatras of morality did not exist before. Mahdmatras of morality were appointed by me (when I had been) anointed thirteen years. These are occupied with all sects in establishing morality, in promoting morality, and for the welfare and happiness of those who are devoted to morality (even) among the Greeks, Kambojas and Gandharas, and whatever other western borderers (of mine there are).
+Fragments of Edict 13 have been found in Greek, and a full Edict, written in both Greek and Aramaic, has been discovered in Kandahar. It is said to be written in excellent Classical Greek, using sophisticated philosophical terms. In this Edict, Ashoka uses the word Eusebeia ("Piety") as the Greek translation for the ubiquitous "Dharma" of his other Edicts written in Prakrit:
+
+Ten years (of reign) having been completed, King Piodasses (Ashoka) made known (the doctrine of) Piety (εὐσέβεια, Eusebeia) to men; and from this moment he has made men more pious, and everything thrives throughout the whole world. And the king abstains from (killing) living beings, and other men and those who (are) huntsmen and fishermen of the king have desisted from hunting. And if some (were) intemperate, they have ceased from their intemperance as was in their power; and obedient to their father and mother and to the elders, in opposition to the past also in the future, by so acting on every occasion, they will live better and more happily. 
+
+
+=== Buddhist missions to the West (c. 250 BCE) ===
+
+Also, in the Edicts of Ashoka, Ashoka mentions the Hellenistic kings of the period as recipients of his Buddhist proselytism, although no Western historical record of this event remains:
+
+The conquest by Dharma has been won here, on the borders, and even six hundred yojanas (5,400–9,600 km) away, where the Greek king Antiochos rules, beyond there where the four kings named Ptolemy, Antigonos, Magas and Alexander rule, likewise in the south among the Cholas, the Pandyas, and as far as Tamraparni (Sri Lanka). 
+Ashoka also encouraged the development of herbal medicine, for men and animals, in their territories:
+
+Everywhere within Beloved-of-the-Gods, King Piyadasi's [Ashoka's] domain, and among the people beyond the borders, the Cholas, the Pandyas, the Satiyaputras, the Keralaputras, as far as Tamraparni and where the Greek king Antiochos rules, and among the kings who are neighbors of Antiochos, everywhere has Beloved-of-the-Gods, King Piyadasi, made provision for two types of medical treatment: medical treatment for humans and medical treatment for animals. Wherever medical herbs suitable for humans or animals are not available, I have had them imported and grown. Wherever medical roots or fruits are not available I have had them imported and grown. Along roads I have had wells dug and trees planted for the benefit of humans and animals. 
+The Greeks in India even seem to have played an active role in the spread of Buddhism, as some of the emissaries of Ashoka, such as Dharmaraksita, are described in Pali sources as leading Greek ("Yona") Buddhist monks, active in Buddhist proselytism (the Mahavamsa, XII).
+
+
+== Timeline ==
+317–316 BCE: Chandragupta Maurya conquers the Northwest of the Indian subcontinent.
+between 322 and 305 BCE: Chandragupta Maurya conquers the Nanda Empire, founding Maurya dynasty.
+305–303 BCE: Chandragupta Maurya gains territory by defeating the Seleucid Empire.
+298–269 BCE: Reign of Bindusara, Chandragupta's son. He conquers parts of Deccan, southern India.
+269–232 BCE: The Mauryan Empire reaches its height under Ashoka, Chandragupta's grandson.
+261 BCE: Ashoka conquers the Kingdom of Kalinga.
+250 BCE: Ashoka builds Buddhist stupas and erects pillars bearing inscriptions.
+184 BCE: The empire collapses when Brihadratha, the last emperor, is killed by Pushyamitra Shunga, a Mauryan general and the founder of the Shunga Empire.
+
+
+== Family tree and List of rulers ==
+
+
+== Branches and claimed descendants ==
+Mauryas of Konkana
+ruled the coastal Konkan region in present-day Goa and Maharashtra states of India)
+
+
+== See also ==
+Moriya Republic
+Magadha
+Pradyota dynasty
+Gupta Empire
+History of India
+List of Hindu empires and dynasties
+
+
+== Notes ==
+
+
+== References ==
+
+A.M. Shastri, ed. (1995). Viśvambharā, Probings in Orientology: Prof. V.S. Pathak Festschrift. Vol. 1. Harman. ISBN 978-8185151762.
+Durga Prasad Dikshit (1980). Political History of the Chālukyas of Badami. Abhinav. OCLC 8313041.
+Charles D. Collins (1998). The Iconography and Ritual of Śiva at Elephanta. State University of New York Press. ISBN 9780791499535.
+
+
+== Sources ==
+
+
+== External links ==
+
+Livius.org: Maurya dynasty. Archived 26 February 2012 at the Wayback Machine.
+Extent of the Empire
+Ashoka's Edicts (archived 28 March 2014)
